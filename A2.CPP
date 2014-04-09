@@ -1,7 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-jayson
-roselyn
+jayson monforte vacaro
 void evenOdd(int num[]);
 
 void main()
